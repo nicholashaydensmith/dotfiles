@@ -16,7 +16,7 @@ plugins=(git cabal pip python vi-mode)
 # User configuration
 
 TMUX=
-export PATH="~/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+export PATH=~/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
 
 export TERM=xterm-256color
 
