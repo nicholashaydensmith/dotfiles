@@ -1,0 +1,3 @@
+#!/bin/bash
+set -x
+/usr/local/bin/nvim -c "source ~/.config/nvim/init.vim | Ggrep $@"
