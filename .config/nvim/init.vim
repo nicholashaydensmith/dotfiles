@@ -37,7 +37,6 @@ set smartindent
 set tabstop=4
 set softtabstop=4
 "set expandtab
-set makeprg=/Users/nicholassmith/forge/forge.py
 set autochdir
 set incsearch
 set backspace=indent,eol,start
